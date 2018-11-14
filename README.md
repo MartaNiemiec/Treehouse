@@ -7,6 +7,6 @@ Built using:
 * HTML
 * CSS
 
-[LIVE PREVIEW](https://htmlpreview.github.io/?https://github.com/MartaNiemiec/Treehouse/blob/master/index.html)
+[LIVE PREVIEW](https://martaniemiec.github.io/Treehouse/index.html)
 
 ![Treehouse](3.jpg)
